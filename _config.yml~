@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Zheng Xiaochen
+title:            Site Title
 locale:           en_US
-url:              http://localhost:4000
+url:              
 
 
 # Jekyll configuration
@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Zheng Xiaochen
+  name: Your Name
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
   disqus-shortname: 
-  twitter: #Xiaochen Zheng
-  facebook: #Xiaochen Zheng
+  twitter: #username
+  facebook: #username
   google:
     plus: #username
     analytics: 
